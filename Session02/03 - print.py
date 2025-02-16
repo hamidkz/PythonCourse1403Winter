@@ -1,0 +1,5 @@
+print("Hamid", "*", "Maryam", sep='*')
+print("Hamid", "*", "Maryam", end='\n')
+print("Hamid", "*", "Maryam")
+print("Keivan")
+print("Adeleh")
